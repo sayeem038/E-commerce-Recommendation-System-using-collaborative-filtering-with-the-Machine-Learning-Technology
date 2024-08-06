@@ -1,4 +1,5 @@
-# Research Paper Title : E-commerce-based Smart Recommendation System using element-by-element collaborative filtering following with the Machine Learning Technology.
+# Research Paper Title :
+E-commerce-based Smart Recommendation System using element-by-element collaborative filtering following with the Machine Learning Technology.
 
 # Presented in :  2024 International Conference on Communication, Computing and Internet of Things (IC3IoT) .
 
